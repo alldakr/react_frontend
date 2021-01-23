@@ -41,7 +41,7 @@ class FruitComponent extends React.Component {
 }
 
 function App() {
-  const fruits = ['바나나', '사과', '딸기'];
+  const fruits = ['바나나', '사과', '오렌지'];
   return (
     <div>
       <Counter1 initialValue={5} />
