@@ -44,7 +44,7 @@ function App() {
   const fruits = ['바나나', '사과', '딸기'];
   return (
     <div>
-      <Counter1 initialValue={10} />
+      <Counter1 initialValue={5} />
       <FruitComponent fruits={fruits} />
     </div>
   );
